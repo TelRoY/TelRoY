@@ -31,7 +31,7 @@
 
 ### 📫 Как со мной связаться
 
-- [Telegram](https://t.me/@ltelroyl) — самый быстрый способ
+- [Telegram](https://t.me/antonvakulin) — самый быстрый способ
 - [Email](mailto:telroychik@gmail.com) — для официальных запросов
 
 ---
